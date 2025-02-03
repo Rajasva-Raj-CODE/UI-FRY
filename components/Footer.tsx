@@ -90,7 +90,7 @@ const Footer = () => {
           <span className="text-sm text-center font-clash-display"> Copyright 2024 uifry.com all rights reserved</span>{" "}
           <span className="text-sm text-black sm:text-center dark:text-white text-center font-clash-display">
           Crafted with passion by {" "}
-            <Link className="font-bold" target="_blank" href="https://tejasviraj.vercel.app/">Rajasva Raj</Link>
+            <Link className="font-bold" target="_blank" href="https://rajasava-raj.vercel.app/">Rajasva Raj</Link>
           </span>
         </div>
       </div>
