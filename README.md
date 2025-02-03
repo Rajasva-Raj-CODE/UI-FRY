@@ -2,8 +2,7 @@
 
 
 ![GitHub stars] (https://img.shields.io/github/stars/Rajasva-Raj-CODE/UI-FRY?style=social&logo=ApacheSpark&label=Stars)&nbsp;&nbsp;
-![GitHub forks](https://img.shields.io/github/forks/tejasvi8686/Responsive-App-Landing-Page-Design?style=social&logo=KashFlow&maxAge=3600)&nbsp;&nbsp;
-![Github Followers](https://img.shields.io/github/followers/tejasvi8686.svg?style=social&label=Follow)&nbsp;&nbsp;<br />
+
 
 
 ---
